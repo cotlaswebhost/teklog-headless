@@ -3,9 +3,9 @@ import React from "react";
 const LogoSvg = () => {
   return (
     <svg
-      width="59"
-      height="41"
-      viewBox="0 0 59 41"
+      width="140"
+      height="36"
+      viewBox="0 0 140 36"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
