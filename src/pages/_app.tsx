@@ -59,7 +59,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
   );
 }
 //implementation 
-<Script
+<script
   id="Absence-banner"
   async
   strategy="afterInteractive"
