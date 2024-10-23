@@ -96,15 +96,11 @@ export default class Document extends NextDocument {
 						}}
 					/>
 					<Script
-                id="Absence-banner"
-                async
-                strategy="afterInteractive"
-                onError={(e) => {
-                    console.error('Script failed to load', e);
-                }}
-                src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_GOOGLE_ADSENSE}`}
-                crossOrigin="anonymous"
-            />
+					async
+					src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5666119533060694"
+					crossOrigin="anonymous"
+					strategy="lazyOnload"
+					/>
 				</Head>
 				<body
 					className={
