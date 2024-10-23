@@ -1,6 +1,6 @@
 {
 	"version": "2.4.0",
-	"mailpoet_api_key": "your_mailpoet_api_key",
+	"mailpoet_api_key": "12a6ca9c3626682ddace02cc464040bb",
 	"mailpoet_list_id": "3",
 	"subcription_widget": {
 		"enable": true,
@@ -17,11 +17,11 @@
 		"right_image": "/images/SVG-subcribe2.png",
 		"features_list": ["Create a free account.", "Write your stories."]
 	},
-	"top_banner": {
+"top_banner": {
 		"enable": true,
-		"description": "-50% Intro price for the next 72 hours only!.",
+		"description": "Get your own news portal upa and running in 24 hours, Contact us now",
 		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
+			"url": "https://cotlas.net/contact-us",
 			"text": "Buy now  →",
 			"new_tab": true
 		}
@@ -32,47 +32,53 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
-		"site_logo": "/logo.png",
-		"site_logo_light": "/logo-light.png",
+		"site_title": "Teklog",
+		"site_description": "Your Simplified Access to Technology",
+		"site_keywords": "Teklog Blogg",
+		"site_author": "vinay404",
+		"site_email": "info@teklog.in",
+		"site_phone": "+91-8969144388",
+		"site_address": "2/138 A, Dum Dum Road, Tanwar Colony",
+		"site_city": "Kolkata",
+		"site_state": "West Bengal",
+		"site_zip": "700074",
+		"site_country": "India",
+		"site_url": "https://teklog.in",
+		"site_logo": "/logo.webp",
+		"site_logo_light": "/teklog-logo-light.webp",
 		"site_favicon": "/favicon.png"
 	},
 	"site_socials": [
 		{
 			"name": "facebook",
-			"url": "https://www.facebook.com/yourfacebookpage",
+			"url": "https://www.facebook.com/teklogblog",
 			"icon": "/images/socials/facebook.svg",
 			"description": "Follow us on Facebook"
 		},
 		{
 			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
+			"url": "https://x.com/teklogblog",
 			"icon": "/images/socials/x-twitter.svg",
 			"description": "Follow us on Twitter"
 		},
 
 		{
-			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
-			"icon": "/images/socials/github.svg",
-			"description": "Follow us on Github"
+			"name": "linkedin",
+			"url": "https://www.linkedin.com/company/teklog/",
+			"icon": "/images/socials/linkedin-in.svg",
+			"description": "Follow us on Linkedin"
 		},
 		{
-			"name": "tiktok",
-			"url": "https://www.tiktok.com/yourtiktokpage",
-			"icon": "/images/socials/tiktok.svg",
-			"description": "Follow us on Tiktok"
+			"name": "instagram",
+			"url": "https://www.instagram.com/teklogblog",
+			"icon": "/images/socials/instagram.svg",
+			"description": "Follow us on Instagram"
+		},
+      	{
+			"name": "youtube",
+			"url": "https://www.youtube.com/@teklogblog",
+			"icon": "/images/socials/youtube.svg",
+			"description": "Follow us on Youtube"
 		}
 	],
 	"site_header": {
@@ -81,7 +87,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2023 ChisNghiax Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2024 Teklog, Blog. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -181,29 +187,29 @@
 		"title": "Lost your password?",
 		"sub_title": "Enter your email below to reset your password.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Welcome to Teklog, your go-to source for insightful articles on the ever-evolving worlds of technology, digital marketing, and web design.",
+			"author": "Vinay Shukla"
 		}
 	},
 	"signUp_page": {
 		"title": "Create an account",
 		"sub_title": "Enter your email below to create your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Welcome to Teklog, your go-to source for insightful articles on the ever-evolving worlds of technology, digital marketing, and web design.",
+			"author": "Vinay Shukla"
 		}
 	},
 	"signIn_page": {
 		"title": "Sign in to your account",
 		"sub_title": "Enter your email below to sign in to your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Explore our collection of expert-driven content designed to inspire, inform, and empower your journey in these dynamic fields.",
+			"author": "Vinay Shukla"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
 			"message": "Lost password not implemented yet! Please contact admmin for support.",
-			"url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+			"url_lostpassword_default_of_wp": "https://panel.teklog.in/wp-login.php?action=lostpassword"
 		}
 	},
 	"mobile_nav_sidebar": {
@@ -226,17 +232,17 @@
 			{
 				"name": "address",
 				"title": "🚀 ADDRESS",
-				"desc": "123 Main Street, New York, NY 10001"
+				"desc": "2/138 A, Dum Dum Road, Tanwar Colony, Kolkata - 700074. India"
 			},
 			{
 				"name": "email",
 				"title": "💌 EMAIL",
-				"desc": "example@example.com"
+				"desc": "info@teklog.in"
 			},
 			{
 				"name": "phone",
 				"title": "☎️ PHONE",
-				"desc": "+88 123 456 789"
+				"desc": "+91 896 914 4388"
 			},
 			{
 				"name": "working_hours",
@@ -256,7 +262,8 @@
 		"sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
 	},
 	"cookies_policy_page": {
-		"uri": "#"
+		"uri": "/cookies-policy",
+		"title": "Cookie Policy"
 	},
 	"privacy_policy_page": {
 		"uri": "/privacy-policy",
