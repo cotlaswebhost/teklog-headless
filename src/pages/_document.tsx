@@ -95,7 +95,7 @@ export default class Document extends NextDocument {
                 `,
 						}}
 					/>
-					<Script
+					<script
 					async
 					src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5666119533060694"
 					crossOrigin="anonymous"
