@@ -23,14 +23,14 @@ const Logo: React.FC<LogoProps> = ({ className = '', imageClassName }) => {
 			className={`ttnc-logo inline-block flex-shrink-0 text-primary-600 ${className}`}
 		>
 			<MyImage
-				className={'block w-12 sm:w-14 dark:hidden ' + imageClassName}
+				className={'block w-36 sm:w-40 dark:hidden ' + imageClassName}
 				src={logoSrc || ''}
 				alt={'Logo'}
 				width={140}
 				height={36}
 			/>
 			<MyImage
-				className={'hidden w-12 sm:w-14 dark:block ' + imageClassName}
+				className={'hidden w-36 sm:w-40 dark:block ' + imageClassName}
 				src={logoLightSrc || ''}
 				alt={'Logo'}
 				width={140}
